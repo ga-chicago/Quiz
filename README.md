@@ -40,3 +40,6 @@
 
 20. What is Sinatra?
 
+21. What is a session?
+
+22. What databases have we used in class? Whats the difference between them?
